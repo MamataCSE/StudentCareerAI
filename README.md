@@ -17,11 +17,18 @@ Technologies Used
 
 - Python
 - Streamlit
+- SQLite Database
 
 How to Run
 
 1. Install Python.
-2. Install the required library:
-   "pip install -r requirements.txt"
-3. Run the application:
-   "python -m streamlit run app.py"
+
+2. Open the terminal in the project folder.
+
+3. Install the required libraries:
+   
+   pip install -r requirements.txt
+
+4. Run the application:
+   
+   python -m streamlit run app.py
